@@ -18,17 +18,15 @@
 <body class="bg-[#e8e5dc] text-black antialiased">
     <div class="mx-auto min-h-screen max-w-7xl border-x-2 border-black bg-[#f3f1e8]">
         <header class="border-b-2 border-black">
-            <div class="grid grid-cols-1 sm:grid-cols-[1fr_auto]">
-                <div class="border-b-2 border-black p-5 sm:border-b-0 sm:border-r-2">
-                    <div class="font-mono text-xs font-bold uppercase tracking-widest">
-                        AETHERIUM / PLATFORM
-                    </div>
+            <div class="p-5">
+                <div class="font-mono text-xs font-bold uppercase tracking-widest">
+                    AETHERIUM / PLATFORM
                 </div>
             </div>
         </header>
         <main>
             <section class="border-b-2 border-black">
-                <div class="border-b-2 border-black p-6 sm:p-10 lg:border-b-0 lg:border-r-2 lg:p-14">
+                <div class="p-6 sm:p-10 lg:p-14">
                     <div class="mb-12 flex items-center gap-3 font-mono text-xs font-bold uppercase">
                         <span class="bg-black px-2 py-1 text-[#f3f1e8]">
                             001
